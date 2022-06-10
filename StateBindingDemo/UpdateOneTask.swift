@@ -16,6 +16,7 @@ struct UpdateOneTask: View {
             .cornerRadius(12)
             .padding()
     }
+    
 }
 
 struct UpdateOneTask_Previews: PreviewProvider {
